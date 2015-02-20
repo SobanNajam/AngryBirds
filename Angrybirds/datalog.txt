@@ -1,0 +1,80 @@
+Value of xlast  100
+Value of x  59
+Value of ylast  450
+Value of y  494
+Value of lf  6.5
+Value of angle  70
+Value of new lf  5.65517
+Value of new angle  61.6
+Value of xlast  100
+Value of x  20
+Value of ylast  450
+Value of y  502
+Value of lf  6.5
+Value of angle  70
+Value of new lf  11.0345
+Value of new angle  72.8
+Value of xlast  100
+Value of x  42
+Value of ylast  450
+Value of y  476
+Value of lf  6.5
+Value of angle  70
+Value of new lf  8
+Value of new angle  36.4
+Value of xlast  100
+Value of x  57
+Value of ylast  450
+Value of y  477
+Value of lf  6.5
+Value of angle  70
+Value of new lf  5.93103
+Value of new angle  37.8
+Value of xlast  100
+Value of x  53
+Value of ylast  450
+Value of y  486
+Value of lf  6.5
+Value of angle  70
+Value of new lf  6.48276
+Value of new angle  50.4
+Value of xlast  100
+Value of x  52
+Value of ylast  450
+Value of y  485
+Value of lf  6.5
+Value of angle  70
+Value of new lf  6.62069
+Value of new angle  49
+Value of xlast  100
+Value of x  67
+Value of ylast  450
+Value of y  470
+Value of lf  6.5
+Value of angle  70
+Value of new lf  4.55172
+Value of new angle  28
+Value of xlast  100
+Value of x  58
+Value of ylast  450
+Value of y  478
+Value of lf  6.5
+Value of angle  70
+Value of new lf  5.7931
+Value of new angle  39.2
+Value of xlast  100
+Value of x  46
+Value of ylast  450
+Value of y  471
+Value of lf  6.5
+Value of angle  70
+Value of new lf  7.44828
+Value of new angle  29.4
+Value of xlast  100
+Value of x  56
+Value of ylast  450
+Value of y  470
+Value of lf  6.5
+Value of angle  70
+Value of new lf  6.06897
+Value of new angle  28
